@@ -1,0 +1,9 @@
+.hidden {
+  display: none;
+}
+.b {
+  border-color: rgb(19, 17, 17);
+  color: red;
+  text-align: center;
+  margin-top: 1rem;
+}
